@@ -1,0 +1,66 @@
+.fotter{
+
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center ;
+    color: aliceblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* Background */
+body {
+  background: linear-gradient(to right, #000003, #f7fd7a);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Card styling */
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Buttons */
+.btn-custom {
+  background-color: #6C63FF;
+  color: white;
+  border-radius: 8px;
+}
+
+.btn-custom:hover {
+  background-color: #574fd6;
+}
+
+/* Page spacing */
+.container {
+  margin-top: 30px;
+}
+
+/* Full height layout */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Main container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Content grows */
+.content {
+  flex: 1;
+  padding: 20px;
+}

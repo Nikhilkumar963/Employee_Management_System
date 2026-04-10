@@ -1,0 +1,14 @@
+{
+  "name": "pojectems-fs",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.14.0"
+  }
+}
