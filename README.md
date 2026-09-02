@@ -146,6 +146,7 @@ The backend exposes REST APIs that the frontend uses. Here's a rough idea of wha
 - Small to medium-sized businesses that don't need a heavy enterprise solution
 - Developers looking to learn full-stack Java + JavaScript development
 - Students building real-world portfolio projects
+- To manage employe detailes easier and more organized
 
 ---
 
